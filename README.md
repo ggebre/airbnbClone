@@ -21,8 +21,8 @@ Fig. 1 A screenshow of the frontpage of the application
 Integrating google maps API to the project was challenging. With google maps documentation and other resources, i managed to integrate google maps API to the project. The other challenge i faced was finding the right layout to mimic AirBnb's web application. After long hours of studying the user interface, i was successful in getting most of the layout.  
 
 # Contact 
-Getu Gebre, getu.gebre.gg@gmail.com 
-Project Link, https://github.com/ggebre/airbnbClone
+* getu.gebre.gg@gmail.com 
+* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/getugebre)
 
 
 
